@@ -26,6 +26,7 @@ body
    color: #DDD;
    margin: 0;
    padding: 0.sem;
+<<<<<<< HEAD
 
 }
 
@@ -40,8 +41,16 @@ body
 
 
 
+=======
+>>>>>>> d2f7abe3dcf08a1c877b3847f7ed3f6b6158b301
 }
 
+#footer
+{ 
+ background: #777 ;
+ color: white;
+ text-align: left;
+}
 
 
 #container h1
