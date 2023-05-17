@@ -20,12 +20,14 @@ body
    color: #DDD;
    margin: 0;
    padding: 0.sem;
-   
-
-
-
 }
 
+#footer
+{ 
+ background: #777 ;
+ color: white;
+ text-align: left;
+}
 
 
 #container h1
