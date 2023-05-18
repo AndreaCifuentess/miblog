@@ -9,5 +9,7 @@ Blog de prueba aaaaaa
   - El verdadero amor por las buenas practicas
   - Trucos locos del profesor
   - Creado por el increible 
+  - Incluye ejemplos en windows
+  
  
  Recordatorio: Estudiarrrrrr
