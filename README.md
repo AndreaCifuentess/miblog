@@ -10,6 +10,6 @@ Blog de prueba aaaaaa
   - Trucos locos del profesor
   - Creado por el increible 
   - Incluye ejemplos en windows
-  
+  -Disponible para todos
  
  Recordatorio: Estudiarrrrrr
